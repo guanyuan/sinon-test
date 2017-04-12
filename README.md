@@ -27,3 +27,5 @@ test on node
 http://raathigesh.com/Mocking-HTTP-Requests-with-Axios-Mock-Adapter/
 
 //////////////////////////////////////////////////////////////////////////
+learn how to test
+https://github.com/Bahmni/form-controls/blob/master/test/components/AddMore.spec.js
